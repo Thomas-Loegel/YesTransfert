@@ -36,6 +36,4 @@ layout function and sort results
 
 
 
-[Anthony](https://github.com/AnthonyM68)
-[Johanna](https://github.com/johanna-Galli)
-[Isabelle](https://github.com/Isabelle13)
+[Anthony](https://github.com/AnthonyM68) - [Johanna](https://github.com/johanna-Galli) - [Isabelle](https://github.com/Isabelle13) - [Thomas](https://github.com/Thomas-Loegel)
