@@ -31,3 +31,11 @@ function delete() in database and file in the serveur deletFile()
 working of page Admin for result upload
 style CSS
 layout function and sort results
+
+
+
+
+
+[Anthony](https://github.com/AnthonyM68)
+[Johanna](https://github.com/johanna-Galli)
+[Isabelle](https://github.com/Isabelle13)
